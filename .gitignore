@@ -1,0 +1,15 @@
+**
+
+!.gitignore
+.clang-format
+
+!*/*.sh
+!Makefile
+
+!src
+!inc
+!**.c
+!**.h
+
+main.c
+!src/main.c
